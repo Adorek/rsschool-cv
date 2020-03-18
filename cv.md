@@ -1,31 +1,31 @@
-## Adam Rafinski  
+# Adam Rafiński  
 
-##### Contacts
+## Contacts
 
-Email: [kontakt@adamrafinski.pl](mailto:kontakt@adamrafinski.pl)
-LinkedIn: https://www.linkedin.com/in/arafinski/
-GitHub: https://github.com/Adorek/  
-Skype: [adam.rafinski](live:adam.rafinski)
+Email: [kontakt@adamrafinski.pl](mailto:kontakt@adamrafinski.pl)  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/arafinski/)  
+GitHub: [GitHub](https://github.com/Adorek/)    
+Skype: [adam.rafinski](live:adam.rafinski)  
 
 ***
 
 ##### Summary  
   
-I was always interested about computers. Since few years I started to learn programming on my own. Writing code is my passion. my goal is to turn my passion into realtime work.
+I was always interested about computers. Since few years I started to learn programming on my own. Writing code is my passion. my goal is to turn my passion into real time work.
  
 --- 
  
-##### Skils
+##### Skills
 
 Programming Languages:
 
--&nbsp; Javascript
--&nbsp; Python 
+- JavaScript
+- Python 
 
 ##### Code examples
 
-https://github.com/Adorek
-https://www.codewars.com/users/Adorek
+* [GitHub](https://github.com/Adorek)  
+* [LinkedIn](https://www.codewars.com/users/Adorek)
 
 ##### Education
 
